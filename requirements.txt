@@ -1,0 +1,4 @@
+ydata-profiling==4.15.0
+pandas==2.2.3
+pygwalker==0.4.9.14
+ipykernel==6.29.5
