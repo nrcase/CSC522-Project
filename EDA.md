@@ -20,3 +20,10 @@
 - Acousticness is very negatively correalted with loudness and energy which makes sense
 - Energy is very postiviely correlated with loudness, also makes sense
 - Tempo and time_signature are highly correlated
+
+## NOTES
+
+- We will be using the data from one country becuase 1.7 million is way too many
+- 488 days for the entire dataset
+- 1.7 million observations / 73 countries / 50 songs per day = roughly 488 days
+- it is 50 songs sampled per day for each 73 countries for 488 days, leading to around 1.7 million.
