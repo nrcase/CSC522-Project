@@ -15,3 +15,6 @@ I used Python 3.10.6 to run this, other versions of python should work as long a
 4. Open one of the Jupyter Notebooks in your favorite IDE that supports Jupyter Notebooks (VSCode, etc...) and select the kernel to be the virtual enviroment you have created.
    - This can be tricky sometimes as the IDE will sometimes not recongize the venv/Jupyter kernel, it may take some playing around or googling
 5. You should be able to run the notebooks!
+
+## Link to Datasets
+[https://drive.google.com/drive/folders/1YczfitIajoI-zPMjZqzr1JeCgOJ_J9fU?usp=sharing](url)
