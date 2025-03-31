@@ -17,4 +17,4 @@ I used Python 3.10.6 to run this, other versions of python should work as long a
 5. You should be able to run the notebooks!
 
 ## Link to Datasets
-[https://drive.google.com/drive/folders/1YczfitIajoI-zPMjZqzr1JeCgOJ_J9fU?usp=sharing](url)
+[https://drive.google.com/drive/folders/1YczfitIajoI-zPMjZqzr1JeCgOJ_J9fU?usp=sharing](https://drive.google.com/drive/folders/1YczfitIajoI-zPMjZqzr1JeCgOJ_J9fU?usp=sharing)
