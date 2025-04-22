@@ -2,7 +2,7 @@
 
 # Installation
 
-I used Python 3.10.6 to run this, other versions of python should work as long as they are not too old or too new. If you specfically want to use Python 3.10.6, Pyenv is a tool that can be used to switch around the python version you are using very easily. An optional step before begining the installation below is to download pyenv 3.10.6 and set that as your python version.
+I used Python 3.10.6 to run this, other versions of python should work as long as they are not too old or too new. If you specfically want to use Python 3.10.6, Pyenv is a tool that can be used to switch around the python version you are using very easily. An optional step before begining the installation below is to download pyenv 3.10.6 and set that as your python version. The main limitation is that the SHAP library requires specific version of python and can be a little picky, https://pypi.org/project/shap/0.28.0/
 
 ## Instructions
 
