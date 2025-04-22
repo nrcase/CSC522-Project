@@ -6,8 +6,9 @@ I used Python 3.10.6 to run this, other versions of python should work as long a
 
 ## Instructions
 
-1. Download the dataset and unzip the csv and put it into the repository
-   - unfortunately the dataset is too big and cannot be pushed to github :(
+1. Download the dataset_with_labels.csv dataset and unzip the csv and put it into the repository
+   - unfortunately that dataset is too big and cannot be pushed to github :(
+   - the other datasets are included with the github as they are small enough
 2. Then create a virtual python enviroment using the command `python3 -m venv venv`
    - this will create a python virtual enviroment in the repository that will be used as the kernel for the jupyter notebooks
 3. Activate the virtual enviroment and the run `pip install -r requirements.txt`
